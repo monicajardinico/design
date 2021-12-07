@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+     <meta charset="UTF-8">
+     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+     <meta name="description" content="">
+     <meta name="keywords" content="">
+     <meta name="author" content="">
+     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+     <title>monica jardinico</title>
+
+     <link rel="stylesheet" href="css/bootstrap.min.css">
+     <link rel="stylesheet" href="css/font-awesome.min.css">
+
+     <!-- Main css -->
+     <link rel="stylesheet" href="css/style.css">
+     <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,700" rel="stylesheet">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.googleapis.com">
+     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+     <link href="https://fonts.googleapis.com/css2?family=Public+Sans:wght@400;700;800&display=swap" rel="stylesheet">
+
+</head>
+
+<body>
+
+     <!-- PRE LOADER -->
+
+     <div class="preloader">
+          <div class="sk-spinner sk-spinner-wordpress">
+               <span class="sk-inner-circle"></span>
+          </div>
+     </div>
+
+     <!-- Navigation section  -->
+
+     <div class="navbar navbar-default navbar-static-top" role="navigation">
+          <div class="container">
+               <div class="navbar-header">
+                    <button class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                         <span class="icon icon-bar"></span>
+                    </button>
+                    <a href="index.html" class="navbar-brand">
+                         <img src="images/logo.png" style="height: 50px;"></a>
+               </div>
+               <div class="collapse navbar-collapse">
+                    <ul class="nav navbar-nav navbar-right">
+                         <li class="active"><a href="index.html">Projects</a></li>
+                         <li><a href="about.html">About</a></li>
+                         <li><a href="contact.html">Contact</a></li>
+                    </ul>
+               </div>
+
+          </div>
+     </div>
+
+     <!-- Home Section -->
+
+     <section id="home">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-12 col-sm-12">
+                         <h2>Design that is bold & experimental. </h2>
+                         <hr>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+     <!-- Portfolio Section -->
+
+     <section id="portfolio">
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/FLT.jpg"
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 50% 0;"
+                                 class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>For the Love of Type</h3>
+                                             <small>Book Design</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/calfresh-06.jpg"
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 50%" class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>CalFresh Outreach</h3>
+                                             <small>Merchandise</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/paper-bag.jpg" 
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 50%" 
+                                   class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>Good Days</h3>
+                                             <small>Brand Identity</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/wakeMi.png" 
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 100%" 
+                                   class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>WakeMi</h3>
+                                             <small>Mobile App</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/SoD.png" 
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 50%" 
+                                   class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>The Shape of Design</h3>
+                                             <small>Book Typesetting</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-4 col-sm-6">
+                              <div class="portfolio-thumb">
+                                   <img src="images/Face-mask-print-01.png" 
+                                   <img style="width: 350px; height: 320px; object-fit: cover; object-position: 50%" 
+                                   class="img-responsive">
+                                   <div class="portfolio-overlay">
+                                        <div class="portfolio-item">
+                                             <h3>Green New Deal</h3>
+                                             <small>Social Justice Campaign</small>
+                                        </div>
+                                   </div>
+                              </div>
+                         </a>
+                    </div>
+
+                    <div class="col-md-12 col-sm-12 text-center">
+                         <h3>hello, if you interested in working together. just a send message <a href="contact.html">contact
+                                   page</a></h3>
+                    </div>
+
+               </div>
+          </div>
+     </section>
+
+     <!-- Footer Section -->
+
+     <footer>
+          <div class="container">
+               <div class="row">
+
+                    <div class="col-md-3 col-sm-3">
+                         <i class="fa fa-magnet"></i>
+                    </div>
+
+                    <div class="col-md-4 col-sm-4">
+                         <p>1442 Prefumo Canyon Rd. San Luis Obispo, 93405.</p>
+                    </div>
+
+                    <div class="col-md-offset-1 col-md-4 col-sm-offset-1 col-sm-3">
+                         <p><a href="mailto:monicajardinico.art@gmail.com">monicajardinico.art@gmail.com</a></p>
+                         <p>818.723.2616</p>
+                    </div>
+
+                    <div class="clearfix col-md-12 col-sm-12">
+                         <hr>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6">
+                         <div class="footer-copyright">
+                              <p>© 2021 Monica Jardinico | All Rights Reserved.</p>
+                         </div>
+                    </div>
+
+                    <div class="col-md-6 col-sm-6">
+                         <ul class="social-icon">
+                              <li><a href="https://www.behance.net/monicajardinico" class="fa fa-behance"></a></li>
+                              <li><a href="#" class="fa fa-instagram"></a></li>
+                              <li><a href="https://www.linkedin.com/in/monica-jardinico-8a43261a7/" class="fa fa-linkedin"></a></li>
+                         </ul>
+                    </div>
+
+               </div>
+          </div>
+     </footer>
+
+
+     <!-- SCRIPTS -->
+
+     <script src="js/jquery.js"></script>
+     <script src="js/bootstrap.min.js"></script>
+     <script src="js/custom.js"></script>
+
+</body>
+
+</html>
